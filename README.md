@@ -55,6 +55,9 @@ else:
 print("--------------------------------------------------------------")
 ```
 ## Output :
+![image](output4.png)
 
 ## Result : 
+thus the program Multiple server with infinite capacity - (M/M/c):(oo/FIFO) was verified by using python program
+
 
